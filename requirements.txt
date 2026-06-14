@@ -1,0 +1,12 @@
+fastapi
+python-dotenv
+groq
+sentence-transformers
+joblib
+pandas
+scikit-learn
+uvicorn
+python-multipart
+streamlit
+plotly
+streamlit-option-menu
