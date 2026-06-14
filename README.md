@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Streamlit App](https://img.shields.io/badge/Streamlit-Live_App-FF4B4B?logo=streamlit&logoColor=white)](YOUR_APP_URL)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live_App-FF4B4B?logo=streamlit&logoColor=white)](https://log-classification-snp.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
@@ -18,7 +18,7 @@
 
 ---
 
-<a href="">Try the App</a>
+<a href="https://log-classification-snp.streamlit.app/">Try the App</a>
 
 ## 🚀 Overview
 
